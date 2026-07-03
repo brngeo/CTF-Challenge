@@ -12,7 +12,7 @@ and can be discovered through various methods including web source code inspecti
 binary exploitation, and network analysis.
 
 Flag Examples:
-Item -Flag{Here_is_the_fl@g}
-Item -flag{secretpassword}
-Item -CTF{this_is_a_flag_in_base64!}
-Item -Flag{This_is_Br4y4n}
+1. -Flag{Here_is_the_fl@g}
+2. -flag{secretpassword}
+3. -CTF{this_is_a_flag_in_base64!}
+4. -Flag{This_is_Br4y4n}

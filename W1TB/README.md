@@ -9,4 +9,4 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 **Author: brngeo**
 
 # Sumbit the flag here:
-https://forms.gle/T6jBFXYYpEHB7hxG6
+https://forms.gle/ykecAE6xADUqus3aA

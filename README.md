@@ -16,3 +16,7 @@ Flag Examples:
 * -flag{secretpassword}
 * -CTF{this_is_a_flag_in_base64!}
 * -Flag{This_is_Br4y4n}
+
+# Why CTF?
+CTFs are the most effective way to legally and safely develop real-world cybersecurity skills \
+through hands-on puzzle solving.

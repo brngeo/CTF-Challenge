@@ -6,8 +6,7 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
       But I cannot open it to see what is inside. \
     	What's in the box?. Help!!!
     	
-**Author: \
-brngeo**
+**Author: brngeo**
 
 # Sumbit the flag here:
 https://forms.gle/T6jBFXYYpEHB7hxG6

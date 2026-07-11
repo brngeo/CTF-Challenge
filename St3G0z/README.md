@@ -3,9 +3,9 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 **👨🏻 Maximillian**: \
     	Download this image my friend and find the flag. \
-        ● [Download Image](https://ibb.co/4CTyY7D)
+        ● [Download Image](https://github.com/brngeo/tree/main/St3G0z/TEu1R04.svg)
         
 **Author: brngeo**
 
 # Sumbit the flag here:
-https://forms.gle/ykecAE6xADUqus3aA
+https://forms.gle/f7cued4AcvsqKzvV6

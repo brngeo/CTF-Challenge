@@ -3,7 +3,7 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 **👨🏻 Maximillian**: \
     	Download this image my friend and find the flag. \
-        ● [Download Image](https://github.com/brngeo/tree/main/St3G0z/TEu1R04.svg)
+        ● [Download Image](https://github.com/brngeo/CTF-Challenge/blob/main/St3G0z/TEu1R04.svg)
         
 **Author: brngeo**
 

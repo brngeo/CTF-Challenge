@@ -2,9 +2,8 @@
 Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 **👨🏻 Maximillian**: \
-    	Download this image my friend, \
-      Find the flag. \
-      
+    	Download this image my friend and find the flag.
+        
 **Author: brngeo**
 
 # Sumbit the flag here:

@@ -3,7 +3,7 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 **👨🏻 Maximillian**: \
     	Download this image my friend and find the flag. \
-        ● [https://ibb.co/kV5chNqZ](Download Image)
+        ● [Download Image](#https://ibb.co/kV5chNqZ)
         
 **Author: brngeo**
 

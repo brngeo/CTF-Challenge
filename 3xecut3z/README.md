@@ -2,7 +2,8 @@
 Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 **👨🏻 Robin**: \
-    	Download this image my friend and find the flag. \
+    	Unfortunately, I cannot access the contents of the executable file \ 
+        showing the hidden flag because I do not have the required username and password. \
         ● [Download TEu1R04.svg](https://github.com/brngeo/CTF-Challenge/blob/main/St3G0z/TEu1R04.svg)
         
 **Author: brngeo**
